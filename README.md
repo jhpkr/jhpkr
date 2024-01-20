@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hello! My name is Joon Park
+### :mortar_board: \
 
 <!--
 **jhpkr/jhpkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
