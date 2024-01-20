@@ -1,5 +1,9 @@
 ### 👋 Hello! My name is Joon Park
-### :mortar_board: \
+### :mortar_board: I am currently a first-year student pursuing a Masters in Applied Data Science at UChicago!
+### 👯 I am looking to collaborate on machine learning projects related to consumer behavior and social impact.
+### 📫 How to reach me: Please feel free to reach me on [LinkedIn](https://www.linkedin.com/in/joonpark100/) or through email (joonpark@uchicago.edu)
+
+### 😄 Thank you!
 
 <!--
 **jhpkr/jhpkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
